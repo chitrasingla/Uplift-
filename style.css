@@ -1,0 +1,39 @@
+.navbar-nav.navbar-center { 
+    position: absolute; 
+    left: 50%; 
+    transform: translatex(-50%); 
+    
+}
+body {
+    font-family: "Roboto Slab", serif;
+  }
+.content{
+    display: inline-block;  
+    color: #fff;
+}
+.img-spices{  
+    width: 400px;  
+    height: 400px;
+    position: absolute; 
+    left: 30%;   
+}  
+.text{
+    width: 400px;  
+    height: 400px;
+    position: absolute; 
+    left: 30%;
+    text-align: justify;
+}
+
+.social-links a{
+    display: inline-block;  
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    
+    border-radius: 50%;
+    text-align: center;
+    width: 26px;
+    height: 36px;
+   
+  }
